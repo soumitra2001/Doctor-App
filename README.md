@@ -1,5 +1,5 @@
 
-# Doctor_App
+<h1 align="center">🧑‍⚕️🩺  Doctor_App  🥼💉</h1>
 
 Welcome to the Doctor_App GitHub repository! This repository contains the source code for a web application that allows patients and doctors to interact and manage appointments. The application consists of two main entities: "Patient" and "Doctor".
 
